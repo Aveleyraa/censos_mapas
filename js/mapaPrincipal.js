@@ -22,6 +22,9 @@ var coverages = null;
 var zoomHome;
 
 
+
+//Esto es una prueba para el monitorear los cambios
+
 $(document).ready(function()
 {
     switch(tipoVisualizacionCapas)
